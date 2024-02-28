@@ -8,9 +8,12 @@ This repository contains a collection of Java projects developed by Bezawit Liro
 
 2. **Email Administration Project**: Another Java project focusing on email administration. This project allows administrators to create new email accounts for users, generate random passwords, set mailbox capacity, and define alternate email addresses.
 
+3. **IP Finder App**: A simple Java application that finds the IP address of a specified domain or hostname. This app utilizes network-related Java classes to perform DNS resolution and retrieve the IP address associated with the provided domain.
+
 ## Folder Structure
 - **SchoolManagementSystem/**: Contains files related to the School Management System project.
 - **EmailAdministrationProject/**: Contains files related to the Email Administration Project.
+- **IPFinderApp/**: Contains files related to the IP Finder App project.
 
 ## Usage
 Each project folder contains its own README file with specific instructions on how to run or use the respective application. Follow the instructions provided in the README files to get started with each project.
@@ -26,7 +29,7 @@ If you would like to contribute to this repository, feel free to fork the projec
 This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for personal or commercial purposes. Refer to the LICENSE file for more information.
 
 ## Contact
-For any inquiries or feedback, please contact Bezawit Liro at [Your Email Address].
+For any inquiries or feedback, please contact Bezawit Liro at bezawitedilu@gmail.com.
 
 ---
 Feel free to further customize this README template according to your preferences and the details of your repository.
