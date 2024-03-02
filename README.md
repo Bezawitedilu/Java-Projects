@@ -10,10 +10,22 @@ This repository contains a collection of Java projects developed by Bezawit Liro
 
 3. **IP Finder App**: A simple Java application that finds the IP address of a specified domain or hostname. This app utilizes network-related Java classes to perform DNS resolution and retrieve the IP address associated with the provided domain.
 
+4. **Calculator App**: A basic calculator application implemented with a graphical user interface (GUI) using Java Swing. The calculator provides functionalities for arithmetic operations such as addition, subtraction, multiplication, and division.
+
+5. **Employee Management System**: An application for managing employee records within an organization. This system allows administrators to add, delete, view, and update employee information, providing a digital solution for personnel database management.
+
+6. **Notepad**: A simple text editor application implemented in Java. This notepad allows users to create, open, edit, save, and close text files, providing basic text editing functionalities similar to popular text editors.
+
+7. **Music Player App**: A Java application for playing music tracks. Users can interact with the music player to play, pause, stop, skip tracks, shuffle playlists, and repeat tracks, providing basic music playback functionalities.
+
 ## Folder Structure
 - **SchoolManagementSystem/**: Contains files related to the School Management System project.
 - **EmailAdministrationProject/**: Contains files related to the Email Administration Project.
 - **IPFinderApp/**: Contains files related to the IP Finder App project.
+- **CalculatorApp/**: Contains files related to the Calculator App project.
+- **EmployeeManagementSystem/**: Contains files related to the Employee Management System project.
+- **Notepad/**: Contains files related to the Notepad project.
+- **MusicPlayerApp/**: Contains files related to the Music Player App project.
 
 ## Usage
 Each project folder contains its own README file with specific instructions on how to run or use the respective application. Follow the instructions provided in the README files to get started with each project.
@@ -30,6 +42,3 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 
 ## Contact
 For any inquiries or feedback, please contact Bezawit Liro at bezawitedilu@gmail.com.
-
----
-Feel free to further customize this README template according to your preferences and the details of your repository.
